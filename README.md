@@ -37,6 +37,6 @@ For development it's possible to switch the script repo
 
 ```
 # Change location of source repository
-$ export SCRIPT_REPO="https://raw.githubusercontent.com/gshipley/installcentos/master"
+$ export SCRIPT_REPO="https://raw.githubusercontent.com/venerari/installcentos/master"
 $ curl $SCRIPT_REPO/install-openshift.sh | /bin/bash
 ```
